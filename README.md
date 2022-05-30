@@ -14,12 +14,12 @@ Skills:  REACT / JS / HTML / CSS/ EXPRESS / NODE / MONGODB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a style='margin-right:30px;' href="https://twitter.com/tanvir00191684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvir00191684" height="30" width="40" /></a>
-<a style='margin-right:30px;' href="https://linkedin.com/in/tan-vir-4148631b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tan-vir-4148631b7" height="30" width="40" /></a>
-<a style='margin-right:30px;' href="https://fb.com/tanvir.rl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir.rl" height="30" width="40" /></a>
-<a style='margin-right:30px;' href="https://www.hackerrank.com/@mt14050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mt14050" height="30" width="40" /></a>
-<a style='margin-right:30px;' href="https://codeforces.com/profile/tanvir14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanvir14" height="30" width="40" /></a>
-<a style='margin-right:30px;' href="https://www.topcoder.com/members/tanvir14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="tanvir14" height="30" width="40" /></a>
+<a style='padding:30px;' href="https://twitter.com/tanvir00191684" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvir00191684" height="30" width="40" /></a>
+<a style='padding:30px;' href="https://linkedin.com/in/tan-vir-4148631b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tan-vir-4148631b7" height="30" width="40" /></a>
+<a style='padding:30px;' href="https://fb.com/tanvir.rl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanvir.rl" height="30" width="40" /></a>
+<a style='padding:30px;' href="https://www.hackerrank.com/@mt14050" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mt14050" height="30" width="40" /></a>
+<a style='padding:30px;' href="https://codeforces.com/profile/tanvir14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tanvir14" height="30" width="40" /></a>
+<a style='padding:30px;' href="https://www.topcoder.com/members/tanvir14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="tanvir14" height="30" width="40" /></a>
 </p>
 
 
