@@ -1,5 +1,5 @@
 
-![I am Mern  stack developer ](https://i.ibb.co/pb75J79/github-cover.png)
+![I am Mern  stack developer ](https://i.ibb.co/6W41zQL/git-cover.png)
 
 ### Hi there 👋, I'm Tanvir
 #### I am Mern  stack developer 
