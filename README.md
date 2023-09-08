@@ -6,11 +6,9 @@
 
 I’m a  mern stack web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with ReactJS, JavaScript, and Node Js.
 
-Skills:  REACT / JS / HTML / CSS/ EXPRESS / NODE / MONGODB
+Skills:  HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACT / REDUX / EXPRESS / NODE / MONGODB
 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web development  
+
  ---
 [![](https://visitcount.itsvg.in/api?id=Tanvir1407&icon=0&color=0)](https://visitcount.itsvg.in)
 
