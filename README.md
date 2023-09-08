@@ -6,7 +6,7 @@
 
 I’m a  mern stack web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with ReactJS, JavaScript, and Node Js.
 
-Skills:  HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACT / REDUX / EXPRESS / NODE / MONGODB
+Skills:  `HTML` `CSS` `BOOTSTRAP` `TAILWIND` `JAVASCRIPT` `REACT` `REDUX` `EXPRESS` `NODE` `MONGODB`
 
 
  ---
