@@ -1,8 +1,8 @@
 
 
 ### Hi there 👋, I'm Tanvir
-#### I am Mern  stack developer 
-
+#### Javascript developer 
+<a href="https://wakatime.com/@7ea270ac-7c04-4403-9b94-b5fe20231cec"><img src="https://wakatime.com/badge/user/7ea270ac-7c04-4403-9b94-b5fe20231cec.svg" alt="Total time coded since Jun 5 2022" /></a>
 <a href="https://app.daily.dev/mdtanvir85"><img src="https://api.daily.dev/devcards/v2/M698kHhqPUEulfhmGiGJI.png?type=default&r=ahe" width="356" alt="MD. Tanvir's Dev Card"/></a>
 
 I’m a  mern stack web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with ReactJS, JavaScript, and Node Js.
