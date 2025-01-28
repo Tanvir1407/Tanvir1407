@@ -7,8 +7,9 @@
 I’m a  mern stack web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with ReactJS, JavaScript, and Node Js.
 
 Skills:  `HTML` `CSS` `BOOTSTRAP` `TAILWIND` `JAVASCRIPT` `REACT` `REDUX` `EXPRESS` `NODE` `MONGODB`
-<a href="https://wakatime.com/@7ea270ac-7c04-4403-9b94-b5fe20231cec"><img src="https://wakatime.com/badge/user/7ea270ac-7c04-4403-9b94-b5fe20231cec.svg" alt="Total time coded since Jun 5 2022" /></a>
 
+<div><a href="https://wakatime.com/@7ea270ac-7c04-4403-9b94-b5fe20231cec"><img src="https://wakatime.com/badge/user/7ea270ac-7c04-4403-9b94-b5fe20231cec.svg" alt="Total time coded since Jun 5 2022" /></a>
+</div>
 
  ---
 [![](https://visitcount.itsvg.in/api?id=Tanvir1407&icon=0&color=0)](https://visitcount.itsvg.in)
