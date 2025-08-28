@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>👋 Hi, I'm <strong>Md. Tanvir</strong></h1>
-<h3>Frontend Engineer crafting performant, accessible, and user-centered web experiences</h3>
+<h3>Software Engineer crafting performant, accessible, and user-centered web experiences</h3>
 
 <img src="https://komarev.com/ghpvc/?username=Tanvir1407&color=blueviolet&style=flat-square" alt="Profile Views"/>
 
