@@ -9,6 +9,7 @@
 </div>
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app)
 
 ## 🚦 Snapshot
 
